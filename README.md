@@ -19,7 +19,7 @@ This project implements a collection of cipher algorithms in C, providing functi
 11. Rail Fence Cipher
 12. N-Gram Operations
 13. Route Cipher  
-14. Myszkowski Cipher
+14. Myszkowiski Cipher
 
 ### How to Run
 1. Compile the code:  
