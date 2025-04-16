@@ -16,9 +16,10 @@ This project implements a collection of cipher algorithms in C, providing functi
 8. Autokey Cipher  
 9. Running Key Cipher  
 10. Hill Cipher  
-11. Rail Fence Cipher  
-12. Route Cipher  
-13. Myszkowski Cipher
+11. Rail Fence Cipher
+12. N-Gram Operations
+13. Route Cipher  
+14. Myszkowski Cipher
 
 ### How to Run
 1. Compile the code:  
